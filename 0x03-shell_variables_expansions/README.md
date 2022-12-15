@@ -1,1 +1,1 @@
- Shell variables,expansions,alias
+ Shell variables
